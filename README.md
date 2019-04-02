@@ -1,4 +1,4 @@
-# shopping mearn app
+# shopping mern app
 
 ## Intro
 
